@@ -26,6 +26,8 @@ comment:
 
 See my [first post](/myfirstpost)
 
+Include picture: ![my image](/hugo_test_image.jpeg)
+
 ### The Black Obelisk
 - Unlike other artifacts, it’s not palace-centric
   - Not found within palace walls; on the high citadel of Nimrud
