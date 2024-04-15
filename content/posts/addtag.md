@@ -3,7 +3,7 @@ title: "Testing the addition of tags and categories"
 subtitle: "This is a subtitle"
 date: 2024-04-15T19:22:53-04:00
 lastmod: 2024-04-15T19:22:53-04:00
-draft: true
+draft: false
 author: "ehe"
 authorLink: ""
 license: ""

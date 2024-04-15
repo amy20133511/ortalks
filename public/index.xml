@@ -1,68 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>运筹OR帷幄｜讲座汇总</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on 运筹OR帷幄｜讲座汇总</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Apr 2024 17:48:26 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 19:22:53 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing the addition of tags and categories</title>
+      <link>http://localhost:1313/posts/addtag/</link>
+      <pubDate>Mon, 15 Apr 2024 19:22:53 -0400</pubDate>
+      <guid>http://localhost:1313/posts/addtag/</guid>
+      <description>The Black Obelisk Unlike other artifacts, it’s not palace-centric Not found within palace walls; on the high citadel of Nimrud is public Maybe aspirational, but definitely instructive Content Tributaries carrying miniature “models” of other cities in Assyria Be able to show guests Highlight ownership &amp;amp; control Give the kings a lens to a wider world (often times they don’t get to see the cities they conquer) Thronebase from Shalmaneser in Nimrud </description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 09 Apr 2024 18:39:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>Introduction:&#xA;Introduction of the two key legal philosophies: Antonin Scalia’s textualist and originalist approach versus Ronald Dworkin’s interpretative method. Brief overview of the case United States v. Rahimi “because…” motivation: argue for the superiority of one approach over the other Thesis statement: Argue why Scalia’s approach is superior in interpreting statutes, particularly in the context of Second Amendment cases like United States v. Rahimi </description>
+    </item>
+    <item>
+      <title>Testpost</title>
+      <link>http://localhost:1313/posts/testpost/</link>
+      <pubDate>Tue, 09 Apr 2024 18:08:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/testpost/</guid>
+      <description>Space representation in reliefs (military campaigns) Ashurnasirpal’s throne room worms eye perspective Tiglath-Pileser III, Sargon II, Sennacherib Restricted perspective breaks down, shifts into more relaxed perspective Ashurbanipal Redecorating Sennacherib’s palace Went back to registers (but in a weird way) - playful? e.g. Instead of standard inscriptions in between registers, there is a river - bird’s eye view? Use of empty space Emotional &amp;amp; charged empty spaces? Some are confusing &amp;amp; inexplicable (looks unnecessary)?</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/myfirstpost/</link>
       <pubDate>Tue, 09 Apr 2024 17:48:26 -0400</pubDate>
       <guid>http://localhost:1313/posts/myfirstpost/</guid>
       <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.es/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.es/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.fr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.hi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.hi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.jp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.jp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.pl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.pl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.ru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.ru/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/search/_index.zh-cn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/_index.zh-cn/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
