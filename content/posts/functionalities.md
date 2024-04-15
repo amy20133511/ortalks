@@ -1,17 +1,17 @@
 ---
-title: "Testing the addition of tags and categories"
+title: "Testing different functionalities"
 subtitle: "This is a subtitle"
 date: 2024-04-15T19:22:53-04:00
 lastmod: 2024-04-15T19:22:53-04:00
 draft: false
 author: "ehe"
 authorLink: ""
-license: ""
+license: "what license?"
 tags: ["tag test"]
 categories: ["category test"]
 featuredImage: ""
 featuredImagePreview: ""
-summary: ""
+summary: "This is a summary. Let's see what it does!"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 toc:
@@ -23,6 +23,8 @@ share:
 comment:
   enable: true
 ---
+
+See my [first post](/myfirstpost)
 
 ### The Black Obelisk
 - Unlike other artifacts, it’s not palace-centric

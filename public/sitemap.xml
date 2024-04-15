@@ -2,20 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/category-test/</loc>
+    <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tag-test/</loc>
+    <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/functionalities/</loc>
     <lastmod>2024-04-15T19:22:53-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-04-15T19:22:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2024-04-09T18:39:03-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/testpost/</loc>
     <lastmod>2024-04-09T18:08:14-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/myfirstpost/</loc>
     <lastmod>2024-04-09T17:48:26-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
