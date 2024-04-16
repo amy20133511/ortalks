@@ -24,12 +24,6 @@ comment:
   enable: true
 ---
 
-See my [first post](/myfirstpost)
-
-See my [first post](/myfirstpost.md)
-
-See my [first post](myfirstpost) \n
-See my [first post](myfirstpost.md)
 
 See my [first post]({{< ref "/posts/myfirstpost.md" >}} "what is this?")
 
