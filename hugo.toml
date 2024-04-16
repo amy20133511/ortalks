@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ortalks.online/'
 languageCode = 'en-us'
 title = '运筹OR帷幄｜讲座汇总'
 theme = 'tailwind'

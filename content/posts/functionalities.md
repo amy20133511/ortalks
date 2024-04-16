@@ -25,9 +25,13 @@ comment:
 ---
 
 See my [first post](/myfirstpost)
+
 See my [first post](/myfirstpost.md)
-See my [first post](myfirstpost)
+
+See my [first post](myfirstpost) \n
 See my [first post](myfirstpost.md)
+
+See my [first post]({{< ref "/posts/myfirstpost.md" >}} "what is this?")
 
 Include picture: ![my image](/hugo_test_image.jpeg)
 
