@@ -27,7 +27,13 @@ comment:
 
 See my [first post]({{< ref "/posts/myfirstpost.md" >}} "what is this?")
 
-Include picture: ![my image](/hugo_test_image.jpeg)
+Test a link from other websites: [what's a freshman's dream](https://en.wikipedia.org/wiki/Freshman%27s_dream) ?
+
+
+{{< bilibili BV1Wx421C7T9 >}}
+
+
+Include picture: ![my image](/test_images/hugo_test_image.jpeg)
 
 ### The Black Obelisk
 - Unlike other artifacts, it’s not palace-centric

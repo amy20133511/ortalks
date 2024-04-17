@@ -1,4 +1,45 @@
 baseURL = 'https://ortalks.online/'
+author = "运筹OR帷幄"
+copyright = "运筹OR帷幄 2024"
+paginate = 10
 languageCode = 'en-us'
 title = '运筹OR帷幄｜讲座汇总'
 theme = 'tailwind'
+
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  [params.header]
+    logo = "favicon.ico"
+
+  [params.footer]
+    since = 2018
+    poweredby = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "/posts"
+    weight = 0
+
+  [[menu.main]]
+    identifier = "ortalks"
+    name = "OR Talks"
+    pageRef = "/ortalks"
+    weight = 10
+
+   [[menu.main]]
+    identifier = "techtalks"
+    name = "Tech Talks"
+    pageRef = "/ortalks/functionalities2"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
