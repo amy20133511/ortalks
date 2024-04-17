@@ -1,18 +1,18 @@
 baseURL = 'https://ortalks.online/'
 author = "运筹OR帷幄"
-copyright = "运筹OR帷幄 2024"
+copyright = "运筹OR帷幄"
 paginate = 10
-languageCode = 'en-us'
-title = '运筹OR帷幄｜讲座汇总'
+DefaultContentLanguage = "zh-CN"
 theme = 'tailwind'
 
 
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "landing"
 
   [params.header]
+    title = "test"
     logo = "favicon.ico"
 
   [params.footer]
@@ -20,12 +20,6 @@ theme = 'tailwind'
     poweredby = false
 
 [menu]
-
-  [[menu.main]]
-    identifier = "post"
-    name = "Post"
-    pageRef = "/posts"
-    weight = 0
 
   [[menu.main]]
     identifier = "ortalks"
@@ -36,10 +30,27 @@ theme = 'tailwind'
    [[menu.main]]
     identifier = "techtalks"
     name = "Tech Talks"
-    pageRef = "/ortalks/functionalities2"
-    weight = 10
+    pageRef = "/techtalks"
+    weight = 20
+
+    [[menu.main]]
+    identifier = "intalks"
+    name = "In Talks"
+    pageRef = "/intalks"
+    weight = 30
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
+
+[Languages]
+[Languages.zh-CN]
+title = "运筹OR帷幄｜讲座汇总"
+weight = 0
+languagename = "中文"
+
+[Languages.en]
+title = "A Collection of Past Talks"
+weight = 1
+languagename = "English"
