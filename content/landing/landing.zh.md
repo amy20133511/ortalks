@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "欢迎来到运筹OR帷幄"
 #subtitle: ""
 date: 2024-04-17T14:43:52-04:00
 draft: false
@@ -8,14 +8,13 @@ authorLink: ""
 license: ""
 featuredImage: ""
 featuredImagePreview: ""
-summary: "Click here for a general introduction to the site, or start exploring our talk series via the navigation bar on the top right."
+summary: "搭建学界与业界的桥梁，跨越理论和实践的鸿沟。"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 share:
   enable: true
 comment:
   enable: false
-slug: "landing"
 ---
 
 ## ORTalk
