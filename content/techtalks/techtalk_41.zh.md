@@ -9,6 +9,7 @@ authorLink: ""
 license: ""
 tags: ["A/B testing", "interference", "off-policy evaluation", "reinforcement learning"]
 categories: ["Experimental Design"]
+series: "TechTalks"
 featuredImage: ""
 featuredImagePreview: ""
 summary: "A/B测试面临Interference问题，影响结果可靠性。我们提出基于强化学习的\"Difference-in-Q\"(DQ)估计器，通过求解Q值差分估计treatment effect。理论上，DQ在偏差-方差权衡方面表现出色，显著降低偏差，方差指数级缩减。与抖音合作应用于大规模商业场景，均方误差减少99%以上，展现卓越性能。"
