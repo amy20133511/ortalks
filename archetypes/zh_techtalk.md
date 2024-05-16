@@ -7,6 +7,7 @@ draft: true
 # 编辑完成后把 `draft` 改成 false (不要双引号)
 tags: [""]
 categories: [""]
+series: "Tech Talk"
 summary: "" # 在此添加talk总结
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -28,7 +29,7 @@ comment:
 ## 嘉宾介绍
 在此添加嘉宾照片。步骤：
 1. 在static/tech_images下添加一个文件夹，文件夹名为“tech_XX”（替换XX为当前talk编号）；
-2. 上传照片到static/tech_images/tech_XX，并把图片文件名修改为“speaker.jpg”；
+2. 上传照片到static/tech_images/tech_XX，并把图片文件名修改为“speaker.png”；
 3. 把下面这行指令中的“41”修改为当前talk编号XX，并把嘉宾名字改为当前talk的嘉宾名字；
 4. 删掉这段文字。
 {{< figure src="/tech_images/tech_41/speaker.png" title="彭天翼" width="200">}}
