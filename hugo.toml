@@ -42,7 +42,6 @@ theme = 'tailwind'
 [taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
 
 [Languages]
 [Languages.zh-CN]

@@ -5,7 +5,6 @@ lastmod: 2024-04-17T21:01:06-04:00
 draft: false
 tags: ["Mixed Integer Programming", "Supply Chain", "Material Requirement Planning"]
 categories: []
-series: "In Talk"
 summary: "This lecture will introduce Material Requirement Planning (MRP), explaining its fundamental concepts and significance. It will then discuss common MRP solutions and analyze the main challenges encountered during implementation. Finally, the lecture will present Lenovo's MRP system based on intelligent decision-making technology, highlighting its unique advantages in improving efficiency and optimizing resource management."
 hiddenFromHomePage: false
 hiddenFromSearch: false

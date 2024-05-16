@@ -6,7 +6,6 @@ lastmod: 2024-04-17T21:01:06-04:00
 draft: false
 tags: []
 categories: []
-series: "OR Talk"
 summary: "对于城市空中运输中，有效管理大量无人机在复杂城市环境中的交通是扩展空运服务的关键。我们提出一种通过优先级排序和解耦NP-hard问题的方法，以快速规划复杂城市环境中的航线网络，并引入空间成本函数以设计密集对齐的航线网络。测试结果显示，该方法生成的航线网络接近最优且节省计算时间。"
 hiddenFromHomePage: false
 hiddenFromSearch: false

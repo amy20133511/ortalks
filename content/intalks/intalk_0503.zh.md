@@ -5,7 +5,6 @@ lastmod: 2024-04-17T21:01:06-04:00
 draft: false
 tags: ["Mixed Integer Programming", "Supply Chain", "Material Requirement Planning"]
 categories: []
-series: "In Talk"
 summary: "本讲座将介绍物料需求计划（MRP），解释其基本概念和重要性。然后，将讨论常见的MRP解决方案，分析实施过程中遇到的主要困难点。最后，讲座将展示基于智能决策技术的联想MRP系统，强调其在提升效率和优化资源管理方面的独特优势。"
 hiddenFromHomePage: false
 hiddenFromSearch: false

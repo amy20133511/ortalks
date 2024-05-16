@@ -5,7 +5,6 @@ lastmod: 2024-04-17T21:01:06-04:00
 draft: false
 tags: []
 categories: []
-series: "OR Talk"
 summary: "High-tech companies are investing in drone technologies for urban air delivery to address last-mile delivery issues and reduce road traffic congestion. Effective traffic management is crucial for scaling up these services in dense urban environments. This paper introduces a tube-based ConOps route network planning method, which decouples the NP-hard network planning problem into single-path problems and uses a space cost function for dense route design. Tests show this method generates near-optimal routes with significant computational time savings."
 hiddenFromHomePage: false
 hiddenFromSearch: false
