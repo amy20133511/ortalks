@@ -9,7 +9,7 @@ authorLink: ""
 license: ""
 tags: ["A/B testing", "interference", "off-policy evaluation", "reinforcement learning"]
 categories: ["Experimental Design"]
-series: "TechTalks"
+series: "Tech Talk"
 featuredImage: ""
 featuredImagePreview: ""
 summary: "A/B测试面临Interference问题，影响结果可靠性。我们提出基于强化学习的\"Difference-in-Q\"(DQ)估计器，通过求解Q值差分估计treatment effect。理论上，DQ在偏差-方差权衡方面表现出色，显著降低偏差，方差指数级缩减。与抖音合作应用于大规模商业场景，均方误差减少99%以上，展现卓越性能。"
@@ -24,6 +24,7 @@ share:
 comment:
   enable: true
 ---
+
 
 ## 分享摘要
 在当今互联网时代，A/B测试已被奉为评估算法效果的黄金标准。然而，Interference问题（即不同实验单元相互影响的现象）却一直是A/B测试中的一大挑战。这一问题的存在使得业界投入巨大资金构建的实验平台的测试结果变得不再可靠。为了克服Interference问题，我们提出了一种基于强化学习框架的创新方案，用于重新审视A/B测试。该方案通过求解强化学习中的Q值的差分来估计treatment effect，因此我们将其命名为“Difference-in-Q”（简称DQ）estimator。从理论角度看，我们发现DQ在bias-variance trade-off方面表现出色：一方面，DQ显著减少了传统estimator的bias；另一方面，DQ的variance较任何unbias estimator都可以实现指数级的缩减。我们与抖音公司合作，将DQ应用于大规模商业场景，在初步测试中，其均方误差减少了超过99%。同时，在商业级共享汽车模拟器中，DQ也展现出了卓越的性能。在本次演讲中，我将介绍DQ的理论与实践，并探讨下一代智能实验平台的设计与展望。
