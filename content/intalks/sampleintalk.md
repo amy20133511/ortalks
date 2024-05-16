@@ -3,7 +3,7 @@ title: "Sample In Talk"
 #subtitle: ""
 date: 2024-04-17T17:08:50-04:00
 lastmod: 2024-04-17T17:08:50-04:00
-draft: false
+draft: true
 author: ""
 authorLink: ""
 license: ""
@@ -12,8 +12,8 @@ categories: ["🐱"]
 featuredImage: ""
 featuredImagePreview: ""
 summary: ""
-hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromHomePage: true
+hiddenFromSearch: true
 toc:
   enable: true
   auto: true

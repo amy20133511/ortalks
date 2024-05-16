@@ -3,7 +3,7 @@ title: "Other Folder"
 #subtitle: ""
 date: 2024-04-16T21:21:42-04:00
 lastmod: 2024-04-16T21:21:42-04:00
-draft: false
+draft: true
 author: ""
 authorLink: ""
 license: ""
@@ -12,8 +12,8 @@ categories: ["OR Talks"]
 featuredImage: ""
 featuredImagePreview: ""
 summary: ""
-hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromHomePage: true
+hiddenFromSearch: true
 toc:
   enable: true
   auto: true
