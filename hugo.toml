@@ -50,6 +50,6 @@ weight = 0
 languagename = "中文"
 
 [Languages.en]
-title = "A Collection of Past Talks"
+title = "OR AI China"
 weight = 1
 languagename = "English"
