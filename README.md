@@ -25,7 +25,8 @@ hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
 - `talk_kind`：文档模版的类型
     - 文档模版类型的格式与上一条，题目的格式，类似；其命名方式为`language_talkType`。
     - 例如：如果需要制作一期OR Talk的中文内容，则选择`language`为中文`zh`，`talkType`为OR Talk`ortalks`，以此类推。
-- 例子
+
+**示范例子**
     - 需要制作中英双语版本，内容为第23期Tech Talk。那么需要两条指令，分别创造中文和英文的内容：
     ```
     hugo new content techtalk/techtalk_23.zh.md --kind zh_techtalk
