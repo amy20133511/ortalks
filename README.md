@@ -9,15 +9,40 @@ sudo snap install hugo #for Linux
 > 别忘了把hugo.exe添加到环境变量PATH中
 
 # 第二步 创建内容
+语法：
 ```shell
-hugo new xxx.md -k %TODO @amy20133511
+hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
 ```
+其中，`hugo new content`会创造一个新的文档。之后的内容则指定题目以及文档的模版种类。
+- `talkType`：不同类型的type对应不同文件夹。为了确保内容结构规整，请使用下面的路径：
+    - 行业Talk - “**intalk**”
+    - TechTalk - "**techtalk**"
+    - OR Talk - "**ortalk**"
+- `talkType_talkNumber.language.md`：题目的格式。
+    - `talkType`：与上面相同，在"intalks"，“techtalks”，"ortalks“中三选一。
+    - `talkNumber`：需要添加的talk的编号。公众号推送里会表明，或是在最近一次同类型talk的编号上加一即可。
+    - `language`：根据需要，在"**zh**"中文，和"**en**"英文，两者中选一个。
+- `talk_kind`：文档模版的类型
+    - 文档模版类型的格式与上一条，题目的格式，类似；其命名方式为`language_talkType`。
+    - 例如：如果需要制作一期OR Talk的中文内容，则选择`language`为中文`zh`，`talkType`为OR Talk`ortalks`，以此类推。
+- 例子
+    - 需要制作中英双语版本，内容为第23期Tech Talk。那么需要两条指令，分别创造中文和英文的内容：
+    ```
+    hugo new content techtalk/techtalk_23.zh.md --kind zh_techtalk
+    hugo new content techtalk/techtalk_23.en.md --kind en_techtalk
+    ```
+    - 需要制作中英双语版本，内容为第5期In Talk。那么需要两条指令，分别创造中文和英文的内容：
+    ```
+    hugo new content intalk/intalk_5.zh.md --kind zh_intalk
+    hugo new content intalk/intalk_5.en.md --kind en_intalk
+    ```
+    
 # 第三步 填写Mardown文件
 Markdown的语法请参考：[Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 # 第四步 运行Hugo
 - 本地预览 如果你想先在本地预览网页效果，可以使用以下命令：
 ```shell
-hugo server
+hugo --gc --minity server
 ```
 点击localhost:1313即可查看效果，如果需要停止预览，可以使用Ctrl+C。
 - 上传到GitHub Pages
