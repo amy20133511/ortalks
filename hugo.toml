@@ -24,19 +24,19 @@ theme = 'tailwind'
   [[menu.main]]
     identifier = "ortalks"
     name = "OR Talks"
-    pageRef = "/ortalks"
+    pageRef = "/ortalk"
     weight = 10
 
    [[menu.main]]
     identifier = "techtalks"
     name = "Tech Talks"
-    pageRef = "/techtalks"
+    pageRef = "/techtalk"
     weight = 20
 
     [[menu.main]]
     identifier = "intalks"
     name = "In Talks"
-    pageRef = "/intalks"
+    pageRef = "/intalk"
     weight = 30
 
 [taxonomies]
