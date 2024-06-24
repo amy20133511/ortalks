@@ -39,7 +39,8 @@ hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
     ```
     
 # 第三步 填写Mardown文件
-Markdown的语法请参考：[Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+你可以在上一步创建的文档模版中找到详细的填写指南，包括语法指导。如果你对Markdown语法不熟悉的话，请参考[Cheatsheet](https://www.markdownguide.org/cheat-sheet/)。
+
 # 第四步 运行Hugo
 - 本地预览 如果你想先在本地预览网页效果，可以使用以下命令：
 ```shell
