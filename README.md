@@ -64,3 +64,14 @@ git commit -m "这里填写你备注的信息"#提交文件
 git push#上传到GitHub
 ```
 或者使用GitHub Desktop来进行操作。
+![alt text](Readme/Readme4GithubDesktop.png)
+完成上述操作之后，点击Commit to main
+![alt text](Readme/PushOrigin.png)
+这样你的内容就上传到**你的**GitHub仓库了。
+# 第六步 Pull Request
+接下来我们需要把内容合并到主仓库中。进入你的仓库中，点击Pull Request。
+![alt text](Readme/pullRequest.png)
+点击右上角的绿色按钮New pull request
+接下来的页面中请确认以下内容是否正确
+![alt text](Readme/pullRequest1.png)
+左侧应为Amy20133511/ortalks即主仓库，右侧为你的仓库，确认无误后点击Create pull request并填写此次合并的备注信息，如Tech Talk 23更新等，之后点击Create pull request即可。接下来等待主仓库的管理员合并你的内容即可。
