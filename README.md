@@ -1,3 +1,9 @@
+# 第零步 准备工作
+安装[Github Desktop](https://desktop.github.com/)。当然如果你对git命令足够熟悉的话，可以选择使用git命令行来进行操作。
+
+- 首先你需要Fork本项目，请点击右上角的Fork按钮，将本项目Fork到你的仓库中。
+
+- 之后你需要Clone你Fork的项目到本地，可以使用Github Desktop，也可以使用git命令行。
 # 第一步 安装Hugo
 你可以选择命令行安装，也可以选择下载安装包安装。
 ```shell
@@ -47,6 +53,14 @@ hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
 hugo --gc --minity server
 ```
 点击localhost:1313即可查看效果，如果需要停止预览，可以使用Ctrl+C。
-- 上传到GitHub Pages
-如果你对Shell脚本比较熟悉，可以采用git add git commit git push的方式上传到GitHub即可完成部署。
-如果你不熟悉Shell脚本，使用[Github Desktop](https://desktop.github.com/)也是一个不错的选择。
+
+# 第五步 上传到GitHub
+当你确认内容无误之后，就可以上传到**你的**GitHub仓库了。
+
+你可以使用
+```shell
+git add .#添加所有文件
+git commit -m "这里填写你备注的信息"#提交文件
+git push#上传到GitHub
+```
+或者使用GitHub Desktop来进行操作。
