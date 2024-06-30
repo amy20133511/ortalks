@@ -50,7 +50,7 @@ hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
 # 第四步 运行Hugo
 - 本地预览 如果你想先在本地预览网页效果，可以使用以下命令：
 ```shell
-hugo --gc --minity server
+hugo --gc --minify server
 ```
 点击localhost:1313即可查看效果，如果需要停止预览，可以使用Ctrl+C。
 
