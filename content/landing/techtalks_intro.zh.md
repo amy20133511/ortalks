@@ -1,7 +1,7 @@
 ---
 title: "Tech Talk: 技术实践，洞见未来"
 #subtitle: ""
-date: 2024-04-15T14:51:10-04:00
+date: 
 draft: false
 author: ""
 authorLink: ""

@@ -1,6 +1,6 @@
 ---
 title: "OR Talk: Sparking Academic Inspirations"
-date: 2024-04-16T14:51:03-04:00
+date: 
 draft: false
 author: ""
 authorLink: ""

@@ -1,7 +1,7 @@
 ---
 title: "Welcome to OR AI China"
 #subtitle: ""
-date: 2024-04-17T14:43:52-04:00
+date: 
 draft: false
 author: "ehe"
 authorLink: ""
