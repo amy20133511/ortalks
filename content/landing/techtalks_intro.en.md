@@ -1,5 +1,5 @@
 ---
-title: "TechTalk: Technical Insights into the Future"
+title: "Tech Talk: Technical Insights into the Future"
 #subtitle: ""
 date: 
 draft: false

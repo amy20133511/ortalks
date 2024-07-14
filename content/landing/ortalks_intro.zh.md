@@ -1,5 +1,5 @@
 ---
-title: "ORTalk: 深入学术，激发灵感"
+title: "OR Talk: 深入学术，激发灵感"
 date: 
 draft: false
 author: ""

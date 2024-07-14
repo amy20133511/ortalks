@@ -1,5 +1,5 @@
 ---
-title: "[TechTalk No. 41] Columbia DRO Tianyi Peng: When A/B Testing Platforms Meet Reinforcement Learning"
+title: "[Tech Talk #41] Columbia DRO Tianyi Peng: When A/B Testing Platforms Meet Reinforcement Learning"
 #subtitle: ""
 date: 2023-09-03T10:00:00
 draft: false

@@ -23,19 +23,19 @@ theme = 'tailwind'
 
   [[menu.main]]
     identifier = "ortalks"
-    name = "ORTalk"
+    name = "OR Talk"
     pageRef = "/ortalk"
     weight = 10
 
    [[menu.main]]
     identifier = "techtalks"
-    name = "TechTalk"
+    name = "Tech Talk"
     pageRef = "/techtalk"
     weight = 20
 
     [[menu.main]]
     identifier = "intalks"
-    name = "InTalk"
+    name = "In Talk"
     pageRef = "/intalk"
     weight = 30
 

@@ -1,5 +1,5 @@
 ---
-title: "[InTalk S5E3] Lenovo: Practical Application of Operations Research in Material Requirement Planning within Lenovo's Supply Chain"
+title: "[In Talk S5E3] Lenovo: Practical Application of Operations Research in Material Requirement Planning within Lenovo's Supply Chain"
 date: 2022-12-20T20:00:00
 draft: false
 tags: ["Mixed Integer Programming", "Supply Chain", "Material Requirement Planning"]

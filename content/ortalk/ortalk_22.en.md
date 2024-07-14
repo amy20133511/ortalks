@@ -1,5 +1,5 @@
 ---
-title: "[OR Talk No. 22] CityU Lishuai Li & Xinyu He: A Route Network Planning Method for Urban Air Delivery"
+title: "[OR Talk #22] CityU Lishuai Li & Xinyu He: A Route Network Planning Method for Urban Air Delivery"
 date: 2023-04-29T20:00:00
 draft: false
 tags: []

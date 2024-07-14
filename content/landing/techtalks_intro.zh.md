@@ -1,5 +1,5 @@
 ---
-title: "TechTalk: 技术实践，洞见未来"
+title: "Tech Talk: 技术实践，洞见未来"
 #subtitle: ""
 date: 
 draft: false
