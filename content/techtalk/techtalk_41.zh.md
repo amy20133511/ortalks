@@ -1,18 +1,17 @@
 ---
-title: "Tech Talk 41: 当A/B实验平台遇上强化学习"
+title: "【Tech Talk第41期】 哥大 彭天翼：当A/B实验平台遇上强化学习"
 #subtitle: ""
-date: 2024-04-17T21:01:06-04:00
-lastmod: 2024-04-17T21:01:06-04:00
+date: 2023-09-03T10:00:00
 draft: false
 author: ""
 authorLink: ""
 license: ""
-tags: ["A/B testing", "interference", "off-policy evaluation", "reinforcement learning"]
-categories: ["Experimental Design"]
+tags: ["A/B测试", "实验设计", "实验干扰", "off-policy evaluation", "强化学习"]
+categories: ["应用统计"]
 #series: "Tech Talk"
 featuredImage: ""
 featuredImagePreview: ""
-summary: "A/B测试面临Interference问题，影响结果可靠性。我们提出基于强化学习的\"Difference-in-Q\"(DQ)估计器，通过求解Q值差分估计treatment effect。理论上，DQ在偏差-方差权衡方面表现出色，显著降低偏差，方差指数级缩减。与抖音合作应用于大规模商业场景，均方误差减少99%以上，展现卓越性能。"
+summary: "A/B测试面临实验干扰问题，影响结果可靠性。我们提出基于强化学习的\"Difference-in-Q\"(DQ)估计器，通过求解Q值差分估计treatment effect。理论上，DQ在偏差-方差权衡方面表现出色，显著降低偏差，方差指数级缩减。与抖音合作应用于大规模商业场景，均方误差减少99%以上，展现卓越性能。"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 toc:

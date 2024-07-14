@@ -1,10 +1,9 @@
 ---
-title: "Lenovo: Practical Application of Operations Research in Material Requirement Planning within Lenovo's Supply Chain｜InTalk 0503"
-date: 2024-04-17T21:01:06-04:00
-lastmod: 2024-04-17T21:01:06-04:00
+title: "[In Talk S5E3] Lenovo: Practical Application of Operations Research in Material Requirement Planning within Lenovo's Supply Chain"
+date: 2022-12-20T20:00:00
 draft: false
 tags: ["Mixed Integer Programming", "Supply Chain", "Material Requirement Planning"]
-categories: []
+categories: ["Smart Decision"]
 summary: "This lecture will introduce Material Requirement Planning (MRP), explaining its fundamental concepts and significance. It will then discuss common MRP solutions and analyze the main challenges encountered during implementation. Finally, the lecture will present Lenovo's MRP system based on intelligent decision-making technology, highlighting its unique advantages in improving efficiency and optimizing resource management."
 hiddenFromHomePage: false
 hiddenFromSearch: false

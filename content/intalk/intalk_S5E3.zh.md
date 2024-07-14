@@ -1,10 +1,9 @@
 ---
-title: "联想：运筹学在联想供应链物料需求计划中的落地实践｜InTalk 0503"
-date: 2024-04-17T21:01:06-04:00
-lastmod: 2024-04-17T21:01:06-04:00
+title: "【行业Talk第五季第三期】联想：运筹学在联想供应链物料需求计划中的落地实践"
+date: 2022-12-20T20:00:00
 draft: false
-tags: ["Mixed Integer Programming", "Supply Chain", "Material Requirement Planning"]
-categories: []
+tags: ["混合整数规划", "供应链", "物料需求计划"]
+categories: ["智能决策"]
 summary: "本讲座将介绍物料需求计划（MRP），解释其基本概念和重要性。然后，将讨论常见的MRP解决方案，分析实施过程中遇到的主要困难点。最后，讲座将展示基于智能决策技术的联想MRP系统，强调其在提升效率和优化资源管理方面的独特优势。"
 hiddenFromHomePage: false
 hiddenFromSearch: false

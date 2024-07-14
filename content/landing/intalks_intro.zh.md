@@ -1,7 +1,7 @@
 ---
-title: "In Talk: 行业洞察，引领趋势"
+title: "行业Talk: 行业洞察，引领趋势"
 #subtitle: ""
-date: 2024-04-14T14:51:20-04:00
+date: 
 draft: false
 draft: false
 author: ""

@@ -1,8 +1,7 @@
 ---
-title: "OR Talk 41: 一种城市无人机空运航线网络规划方法"
+title: "【OR Talk第22期】港城大 李立帅&何鑫宇：一种城市无人机空运航线网络规划方法"
 #subtitle: ""
-date: 2024-04-17T21:01:06-04:00
-lastmod: 2024-04-17T21:01:06-04:00
+date: 2023-04-29T20:00:00
 draft: false
 tags: []
 categories: []

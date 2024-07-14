@@ -1,7 +1,7 @@
 ---
 title: "In Talk: Industry Analysis & Future Trends"
 #subtitle: ""
-date: 2024-04-14T14:51:20-04:00
+date: 
 draft: false
 draft: false
 author: ""
