@@ -23,19 +23,19 @@ theme = 'tailwind'
 
   [[menu.main]]
     identifier = "ortalks"
-    name = "OR Talks"
+    name = "ORTalk"
     pageRef = "/ortalk"
     weight = 10
 
    [[menu.main]]
     identifier = "techtalks"
-    name = "Tech Talks"
+    name = "TechTalk"
     pageRef = "/techtalk"
     weight = 20
 
     [[menu.main]]
     identifier = "intalks"
-    name = "In Talks"
+    name = "InTalk"
     pageRef = "/intalk"
     weight = 30
 
@@ -50,6 +50,6 @@ weight = 0
 languagename = "中文"
 
 [Languages.en]
-title = "OR AI China"
+title = "ORAI China"
 weight = 1
 languagename = "English"

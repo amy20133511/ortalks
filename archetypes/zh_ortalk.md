@@ -1,7 +1,7 @@
 {{/*- The following var extracts Talk #s -*/}}
 {{- $talkNo := substr .Name 7 -3 -}}
 ---
-title: "OR Talk {{ $talkNo }}: " # 在此添加talk的题目
+title: "ORTalk {{ $talkNo }}: " # 在此添加talk的题目
 date: {{ .Date }}
 draft: true
 # 编辑完成后把 `draft` 改成 false (不要双引号)

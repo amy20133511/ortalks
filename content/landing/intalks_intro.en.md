@@ -1,5 +1,5 @@
 ---
-title: "In Talk: Industry Analysis & Future Trends"
+title: "InTalk: Industry Analysis & Future Trends"
 #subtitle: ""
 date: 
 draft: false
