@@ -1,5 +1,5 @@
 ---
-title: "[Tech Talk第41期] 哥大 彭天翼：当A/B实验平台遇上强化学习"
+title: "【Tech Talk第41期】 哥大 彭天翼：当A/B实验平台遇上强化学习"
 #subtitle: ""
 date: 2023-09-03T10:00:00
 draft: false
