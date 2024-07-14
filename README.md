@@ -1,3 +1,9 @@
+# 第零步 准备工作
+安装[Github Desktop](https://desktop.github.com/)。当然如果你对git命令足够熟悉的话，可以选择使用git命令行来进行操作。
+
+- 首先你需要Fork本项目，请点击右上角的Fork按钮，将本项目Fork到你的仓库中。
+
+- 之后你需要Clone你Fork的项目到本地，可以使用Github Desktop，也可以使用git命令行。
 # 第一步 安装Hugo
 你可以选择命令行安装，也可以选择下载安装包安装。
 ```shell
@@ -44,9 +50,28 @@ hugo new content talkType/talkType_talkNumber.language.md --kind talk_kind
 # 第四步 运行Hugo
 - 本地预览 如果你想先在本地预览网页效果，可以使用以下命令：
 ```shell
-hugo --gc --minity server
+hugo --gc --minify server
 ```
 点击localhost:1313即可查看效果，如果需要停止预览，可以使用Ctrl+C。
-- 上传到GitHub Pages
-如果你对Shell脚本比较熟悉，可以采用git add git commit git push的方式上传到GitHub即可完成部署。
-如果你不熟悉Shell脚本，使用[Github Desktop](https://desktop.github.com/)也是一个不错的选择。
+
+# 第五步 上传到GitHub
+当你确认内容无误之后，就可以上传到**你的**GitHub仓库了。
+
+你可以使用
+```shell
+git add .#添加所有文件
+git commit -m "这里填写你备注的信息"#提交文件
+git push#上传到GitHub
+```
+或者使用GitHub Desktop来进行操作。
+![alt text](Readme/Readme4GithubDesktop.png)
+完成上述操作之后，点击Commit to main
+![alt text](Readme/PushOrigin.png)
+这样你的内容就上传到**你的**GitHub仓库了。
+# 第六步 Pull Request
+接下来我们需要把内容合并到主仓库中。进入你的仓库中，点击Pull Request。
+![alt text](Readme/pullRequest.png)
+点击右上角的绿色按钮New pull request
+接下来的页面中请确认以下内容是否正确
+![alt text](Readme/pullRequest1.png)
+左侧应为Amy20133511/ortalks即主仓库，右侧为你的仓库，确认无误后点击Create pull request并填写此次合并的备注信息，如Tech Talk 23更新等，之后点击Create pull request即可。接下来等待主仓库的管理员合并你的内容即可。
