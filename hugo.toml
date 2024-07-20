@@ -35,7 +35,7 @@ theme = 'tailwind'
 
     [[menu.main]]
     identifier = "intalks"
-    name = "In Talk"
+    name = "Industry Talk"
     pageRef = "/intalk"
     weight = 30
 
