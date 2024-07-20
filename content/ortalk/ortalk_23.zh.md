@@ -1,5 +1,5 @@
 ---
-title: "【OR Talk第23期】美国大学生数学建模大赛特等奖(O奖)经验分享" # 在此添加talk的题目
+title: "[OR Talk #23] 美国大学生数学建模大赛特等奖(O奖)经验分享" # 在此添加talk的题目
 date: 2023-06-10T020:00:00
 draft: false
 # 编辑完成后把 `draft` 改成 false (不要双引号)
