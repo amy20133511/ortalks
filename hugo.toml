@@ -1,5 +1,5 @@
-#baseURL = 'https://ortalks.online/'
-baseURL ='https://amy20133511.github.io/ortalks'
+baseURL = 'https://ortalks.online/'
+#baseURL ='https://amy20133511.github.io/ortalks'
 author = "运筹OR帷幄"
 copyright = "运筹OR帷幄"
 paginate = 10
