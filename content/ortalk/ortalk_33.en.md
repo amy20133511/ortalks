@@ -47,6 +47,7 @@ Man Yiu (Tim) Tsang is an incoming assistant professor in the Department of Indu
 
 ## Recruitment Advertisement
 I am actively looking for PhD students to join my research group in Texas Tech IMSE with strong optimization, mathematics, and/or statistics background. Prior experience in stochastic optimization is preferred. If you are interested, please send your CV to the email address mytimtsang@gmail.com for consideration. I am also open to collaborations in all areas of stochastic optimization.
+
 ---
 
 <!-- ### 往期直播及相关推文
